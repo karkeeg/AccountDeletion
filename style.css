@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  color: #333;
+}
+.header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.section {
+  margin-bottom: 30px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+.warning {
+  background-color: #fff3cd;
+  border-color: #ffeaa7;
+  padding: 15px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.steps {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 5px;
+}
+ol,
+ul {
+  padding-left: 25px;
+}
+.contact-form {
+  background-color: #e3f2fd;
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+.btn {
+  background-color: #dc3545;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+}
+.btn:hover {
+  background-color: #c82333;
+}
